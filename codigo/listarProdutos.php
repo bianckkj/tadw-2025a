@@ -32,7 +32,7 @@
                     $tipo = $linha['tipo'];
                     $preco_compra = $linha['preco_compra'];
                     $preco_venda = $linha['preco_venda'];
-                    $margem_lucro = $linha['margem_lucro'];
+                    $margem_lucro = $linha['preco_venda'];
                     $quantidade = $linha['quantidade'];
 
 
